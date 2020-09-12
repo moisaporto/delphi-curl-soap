@@ -1,4 +1,4 @@
-# Delphi SOAP CURL
+# Delphi CURL SOAP Request
 
 Example of a Delphi SOAP request using CURL library
 
